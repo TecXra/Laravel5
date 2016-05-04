@@ -12,7 +12,7 @@ class TestDb extends Migration
      */
     public function up()
     {
-        //
+        // Adnan is cool...
     }
 
     /**
